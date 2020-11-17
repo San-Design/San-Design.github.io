@@ -1,0 +1,30 @@
+.btn {
+  padding: 8px 20px;
+  border-radius: 4px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  white-space: nowrap;
+  position: absolute;
+}
+
+.btn--rounded{
+  padding: 12px 64px;
+  font-size: 20px;
+  border-radius: 40px;
+  position: relative;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1);
+}
+
+.white{
+  background-color: #FFFFFF;
+  color: #434343;
+  border: none;
+}
+
+.darkblack{
+  background-color: #434343;
+  color: #FFFFFF;
+  border: none;
+}
+
