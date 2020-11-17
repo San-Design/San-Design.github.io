@@ -17,7 +17,7 @@ class Home extends Component{
 								<div className="top-line">Develop</div>
 								<h1 className = 'heading dark'>React Web Apps</h1>
 								<p className='home__hero-subtitle dark'>with pace using San Design</p>
-								<Link to="/" className="getStarted">
+								<Link to="/">
 									<Button buttonStyle="btn--rounded" buttonColor="darkblack">Get Started <span class="fafaicon"><FaLongArrowAltRight/></span></Button>
 								</Link>
 

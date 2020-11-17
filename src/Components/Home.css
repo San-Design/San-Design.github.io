@@ -77,10 +77,6 @@
   padding-right: 0;
 }
 
-.getStarted{
-  margin-right: 50px;
-}
-
 .fafaicon{
   vertical-align: sub;
 }
@@ -107,5 +103,10 @@ img {
   .col {
     max-width: 100%;
     flex-basis: 100%;
+  }
+
+  .row{
+    align-content: center;
+    text-align: center;
   }
 }
